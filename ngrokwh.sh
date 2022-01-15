@@ -1,5 +1,9 @@
 #!/bin/dash
-# Desenvolvido por Tchelo Noob
+# Programado por WhBeatZ
+# No me hago responsable del mal uso que le puedas dar a mi herramienta :v
+# Si vas a copiar este codigo abierto. No olvides mencionarme xd :c
+# Sigueme en mi insta para mas herramientas --> WhBeatZ
+
 atualizar='\033[1;33m' 
 echo "$atualizar Atualizando repositório..."
 apt update && upgrade -y
