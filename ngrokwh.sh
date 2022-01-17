@@ -1,7 +1,7 @@
 #!/bin/dash
-# Desenvolvido por Tchelo Noob
+# Desenvolvido por WhBeatZ
 atualizar='\033[1;33m' 
-echo "$atualizar Atualizando repositório..."
+echo "$atualizar Atualizando repositorio..."
 clear
 apt update && upgrade -y
 apt install -y wget
