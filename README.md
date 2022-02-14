@@ -20,7 +20,7 @@ El Mejor Ngrok para termux, 100% Funcional. Creado por el famoso Sensei, esta he
 `chmod +x ngrokwh.sh`
 
 
-`./ngrokwh.sh`
+`bash ngrokwh.sh`
 
 [![Screenshot-20220116-091839.png](https://i.postimg.cc/HW92dXc7/Screenshot-20220116-091839.png)](https://postimg.cc/3WWpZyZK)
 
