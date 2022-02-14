@@ -1,5 +1,5 @@
-#!/bin/dash
-# Desenvolvido por WhBeatZ
+#!/bin/bash
+# Hecho por WhBeatZ
 atualizar='\033[1;33m' 
 echo -e "$atualizar Atualizando repositorio..."
 sleep 2
