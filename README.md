@@ -7,10 +7,15 @@ Como instalar Ngrok para termux última versión y sin errores.
 - INSTALACIÓN -
 
 $ pkg install git
+
 $ pkg update
+
 $ git clone https://github.com/WhBeatZ/NgrokWh.git
+
 $ cd NgrokWh
+
 $ chmod +x ngrokwh.sh
+
 $ bash ngrokwh.sh
 
 Después de haber completado los pasos, se van al navegador y crean una cuenta en ngrok.io
