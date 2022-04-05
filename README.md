@@ -6,17 +6,17 @@ Como instalar Ngrok para termux última versión y sin errores.
 
 - INSTALACIÓN -
 
-$ pkg install git
+`pkg install git`
 
-$ pkg update
+`pkg update`
 
-$ git clone https://github.com/WhBeatZ/NgrokWh.git
+`git clone https://github.com/WhBeatZ/NgrokWh.git`
 
-$ cd NgrokWh
+`cd NgrokWh`
 
-$ chmod +x ngrokwh.sh
+`chmod +x ngrokwh.sh`
 
-$ bash ngrokwh.sh
+`bash ngrokwh.sh`
 
 Después de haber completado los pasos, se van al navegador y crean una cuenta en ngrok.io
 Una vez creada la cuenta, les va a llevar a la pantalla de inicio que se llama "Setup & Installation" se encuentra en la parte lateral de la columna izquierda.
@@ -24,7 +24,7 @@ Después tienen que ir a la pestañita de abajo, dónde pone "Your Authoken" le 
 Una vez ahí, tienen que copiar su authoken, incluso con las palabras "ngrok authoken" fíjense bien el ejemplo de lo que tienen que copiar. 
 Ejemplo:
  
-$ngrok authtoken 21rY4RVawiJksks64mskkdLsbs97PjhBPFQzeE_k4s2N6AjPKSkdidnLSIDNldxusb
+`ngrok authtoken 21rY4RVawiJksks64mskkdLsbs97PjhBPFQzeE_k4s2N6AjPKSkdidnLSIDNldxusb`
 
 (Cada uno tiene el authoken propio, no usen el del ejemplo porque no funciona.)
 
@@ -32,7 +32,7 @@ Ese es el authonken que tienen que copiar.
 Cuando lo hayan copiado, se vuelven a la terminal, lo pegan y le dan a enter.
 
 Ahora escriben: 
-$ ngrok http 8080
+`ngrok http 8080`
 
 Y ya estaría activado ngrok correctamente para siempre :D. Espero que les sirva.
 
