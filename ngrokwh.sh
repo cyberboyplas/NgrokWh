@@ -26,19 +26,17 @@ echo -e "${lila}   |  \| |/ _  |  __/ _ \| |/ /\ \ /\ / /|  _ \ ";
 echo -e "${white}   | |\  | (_| | | | (_) |   <  \ V  V / | | | |";
 echo -e "${cyan}   |_| \_|\__, |_|  \___/|_|\_\  \_/\_/  |_| |_|";
 echo -e "${lila}          |___/                                ";
-echo
-echo -e "${cyan}   Mi insta ${lila}:D ${yellow}--> ${white}WhBeatZ  ${rojo}v1.0"
 echo -e "${yellow} - - - - - - - - - - - - - - - - - - - - - - - - - -" 
 echo
 echo -e "${cyan}";
-echo -e "Quieres instalar NgrokWh :D? ${lila}[${white}y${cyan}/${white}n${lila}]";
+echo -e "Do you want to install Ngrok :D? ${lila}[${white}y${cyan}/${white}n${lila}]";
 echo
 echo -e -n "${yellow}---> ${white}"
 read opcao
 case $opcao in
 y)
 echo
-echo -e "Descargando NgrokWh..."
+echo -e "Downloading NgrokWh..."
 case `dpkg --print-architecture` in
 aarch64)
     architectureURL="arm64" ;;
@@ -53,7 +51,7 @@ i*86)
 x86_64)
     architectureURL="amd64" ;;
 *)
-    echo "Arquitetura del sistema desconocida :c"
+    echo "Unknown system architecture :c"
 esac
 
 wget "https://github.com/WhBeatZ/NgrokWh/blob/main/files/ngrok-stable-linux-${architectureURL}.zip?raw=true" -O ngrok.zip
@@ -75,7 +73,7 @@ echo -e "${lila}          |___/                                ";
 echo -e "${rojo}    v1.0                                         "
 echo -e "${yellow} - - - - - - - - - - - - - - - - - - - - - - - -"
 echo
-echo -e "${yellow}Ejempo de uso${white}: ${cyan}[${white}ngrok http 8080${cyan}]${lila} \ ${yellow}o escribe ${cyan}[${white}ngrok${cyan}] ${ywllow}para obtener ayuda)"
+echo -e "${yellow}Usage example${white}: ${cyan}[${white}ngrok http 8080${cyan}]${lila} \ ${yellow}or type ${cyan}[${white}ngrok${cyan}] ${ywllow}for help)"
 echo
 ;;
 
@@ -83,6 +81,6 @@ n)
 clear
 echo 
 echo
-echo -e "${white}NgrokWh ${cyan}no instalado ${yellow}:c"
+echo -e "${white}NgrokWh ${cyan}not installed ${yellow}:c"
 echo
 esac
