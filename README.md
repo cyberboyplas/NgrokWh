@@ -39,17 +39,16 @@ And ngrok would be activated correctly forever :D. I hope it works for you.
 WhBeatZ.
 
 
-<img src="/images/image1.png" height= "300px">
+<img src="/images/image1.png" height="300px">
 
 `y`
 
-<[![Screenshot-20220116-091856.png](https://i.postimg.cc/kGKQ8yVm/Screenshot-20220116-091856.png)](https://postimg.cc/V0s0PnBG) height= "300px">
-
+<img src="/images/image2.png" height="300px">
 
 `ngrok http 8080`
 
 
-[![Screenshot-20220116-091939.png](https://i.postimg.cc/KvKRJy2v/Screenshot-20220116-091939.png)](https://postimg.cc/tYjq4wJL)
+<img src="/images/image3.png" height="300px">
 
 Share the link that generated the victim
 
