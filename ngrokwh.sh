@@ -77,8 +77,6 @@ echo -e "${yellow} - - - - - - - - - - - - - - - - - - - - - - - -"
 echo
 echo -e "${yellow}Ejempo de uso${white}: ${cyan}[${white}ngrok http 8080${cyan}]${lila} \ ${yellow}o escribe ${cyan}[${white}ngrok${cyan}] ${ywllow}para obtener ayuda)"
 echo
-echo -e "${cyan}Mi insta ${lila}:D ${yellow}--> ${white}WhBeatZ"
-echo
 ;;
 
 n)
