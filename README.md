@@ -4,7 +4,7 @@ The best ngrok for termux, 100% functional and stable. Created by The Famous Sen
 
 How to install Ngrok for termux without errors:
 
-- - INSTALLATION - -
+ - - INSTALLATION - -
 
 `pkg install git`
 
