@@ -1,10 +1,10 @@
 # NgrokWh
 
-El Mejor Ngrok para termux, 100% Funcional. Creado por el famoso Sensei, esta herramienta se usará también en WhPhisher
+The best ngrok for termux, 100% functional and stable. Created by The Famous Sensei
 
-Como instalar Ngrok para termux última versión y sin errores. 
+How to install Ngrok for termux without errors:
 
-- INSTALACIÓN -
+- INSTALLATION -
 
 `pkg install git`
 
@@ -18,23 +18,23 @@ Como instalar Ngrok para termux última versión y sin errores.
 
 `bash ngrokwh.sh`
 
-Después de haber completado los pasos, se van al navegador y crean una cuenta en ngrok.io
-Una vez creada la cuenta, les va a llevar a la pantalla de inicio que se llama "Setup & Installation" se encuentra en la parte lateral de la columna izquierda.
-Después tienen que ir a la pestañita de abajo, dónde pone "Your Authoken" le pinchan ahí y les llevará a la página donde se encuentra su authoken para que funcione ngrok.
-Una vez ahí, tienen que copiar su authoken, incluso con las palabras "ngrok authoken" fíjense bien el ejemplo de lo que tienen que copiar. 
-Ejemplo:
+After completing the steps, they go to the browser and create an account on ngrok.io
+Once the account is created, it will take you to the home screen called "Setup & Installation" located on the side of the left column.
+Then they have to go to the bottom tab, where it says "Your Authoken" click there and it will take you to the page where your authoken is for ngrok to work.
+Once there, they have to copy their authoken, even with the words "ngrok authoken" take a good look at the example of what they have to copy.
+Example:
  
 `ngrok authtoken 21rY4RVawiJksks64mskkdLsbs97PjhBPFQzeE_k4s2N6AjPKSkdidnLSIDNldxusb`
 
-(Cada uno tiene el authoken propio, no usen el del ejemplo porque no funciona.)
+(Each one has its own authoken, don't use the one in the example because it doesn't work.)
 
-Ese es el authonken que tienen que copiar.
-Cuando lo hayan copiado, se vuelven a la terminal, lo pegan y le dan a enter.
+That is the authonken they have to copy.
+When they have copied it, they return to the terminal, paste it and hit enter.
 
-Ahora escriben: 
+Now they write:
 `ngrok http 8080`
 
-Y ya estaría activado ngrok correctamente para siempre :D. Espero que les sirva.
+And ngrok would be activated correctly forever :D. I hope it works for you.
 
 WhBeatZ.
 
@@ -51,9 +51,7 @@ WhBeatZ.
 
 [![Screenshot-20220116-091939.png](https://i.postimg.cc/KvKRJy2v/Screenshot-20220116-091939.png)](https://postimg.cc/tYjq4wJL)
 
-Compartir el link que nos generó a la víctima
-
-Mi insta: WhBeatZ 
+Share the link that generated the victim
 
 
-Y Disfrutar :D
+And enjoy :D
