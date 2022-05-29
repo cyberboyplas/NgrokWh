@@ -48,7 +48,7 @@ WhBeatZ.
 `ngrok http 8080`
 
 
-<img src="/images/image3.png" height="300px">
+<img src="/images/image3.png" height="100px">
 
 Share the link that generated the victim
 
