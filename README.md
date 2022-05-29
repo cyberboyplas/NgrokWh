@@ -39,7 +39,7 @@ And ngrok would be activated correctly forever :D. I hope it works for you.
 WhBeatZ.
 
 
-[![Screenshot-20220116-091839.png](https://i.postimg.cc/HW92dXc7/Screenshot-20220116-091839.png)](https://postimg.cc/3WWpZyZK)
+<img src= "https://postimg.cc/3WWpZyZK" height= "300px">
 
 `y`
 
